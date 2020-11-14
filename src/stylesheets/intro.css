@@ -31,7 +31,7 @@
 }
 
 .intro .label-group {
-    border-bottom: .1em solid rgba(0,0,0,.05);
+    border-bottom: .1em solid rgba(0, 0, 0, .05);
     display: block;
     margin-top: 3em;
     width: 100%;
@@ -55,9 +55,5 @@
 }
 
 .intro .label-group .label {
-    background: transparent;
-    box-shadow: none;
-    margin: 0.25em 0.25em;
-    padding: 0 0.25em;
     transition-duration: .5s;
 }

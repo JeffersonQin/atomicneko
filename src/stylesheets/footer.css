@@ -1,10 +1,12 @@
-.footer.fab, .footer .fas, .footer .far {
+.footer.fab,
+.footer .fas,
+.footer .far {
     text-align: center;
     width: 1.25em;
 }
 
 .copyright {
-    background: #354c64;
+    background: #55474a;
     color: #aaa;
     font-size: 0.9em;
     line-height: 2em;
@@ -12,13 +14,18 @@
 }
 
 .hosting {
-    background: #354c64;
+    background: #b5a191;
     color: #ddd;
     font-size: 0.9em;
     font-weight: normal;
     display: block;
-    padding: 0.75em 1em;
+    padding: 0.5em 1em;
     text-decoration: none;
+    line-height: 2em;
+}
+
+.fork {
+    background: #8e5a30;
 }
 
 .hosting .link {

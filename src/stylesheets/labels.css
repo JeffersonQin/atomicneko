@@ -21,13 +21,18 @@
 }
 
 .label-group .label {
-    background: #eee;
-    box-shadow: 0 0 0.15em 0.15em rgba(0, 0, 0, 0.1);
-    color: #333;
+    background: #55474a;
+    box-shadow: 0 0 0.15em 0.15em rgba(0, 0, 0, 0.07);
+    color: #fff;
     display: inline-block;
     line-height: 2.2em;
     margin: 0.25em 0;
     padding: 0 0.5em;
+    transition-duration: .5s;
+}
+
+.label-group .label:hover {
+    background: #797173;
 }
 
 .label-group a.label {
