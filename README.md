@@ -1,4 +1,9 @@
-# ~/amphineko
+# ~/gyrojeff
+
+现在fork后更改信息和样式，作为本人自己的主页。地址：https://gyrojeff.top/index.php/about-me.html
+
+
+# 原作：~/amphineko
 
 This repository is the repository of my homepage (https://futa.moe/amphineko/) that can be used as a template.
 
