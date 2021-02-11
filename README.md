@@ -1,6 +1,6 @@
 # ~/gyrojeff
 
-现在fork后更改信息和样式，作为本人自己的主页。地址：https://gyrojeff.top/index.php/about-me.html
+现在fork后更改信息和样式，作为本人自己的主页。地址：https://gyrojeff.top/index.php/cross.html
 
 
 # 原作：~/amphineko
