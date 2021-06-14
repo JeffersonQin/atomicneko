@@ -63,6 +63,14 @@ html {
     color: #333;
 }
 
+.self-desc p {
+    border-left: 3px solid #828486;
+    line-height: 1.8em;
+    padding-left: 1em;
+	font-size: 1em;
+	font-family: "Helvetica Neue",Helvetica,Arial,PingFangTC-Light,"Microsoft YaHei",微软雅黑,"STHeiti Light",STXihei,"华文细黑",Heiti,黑体,sans-serif;
+}
+
 @media (max-width: 768px) {
     body {
         padding: 0;
